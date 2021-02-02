@@ -20,7 +20,7 @@ This is a open source repository to share different kind of formatting json file
 You can find more details around the column formatting capability from official SharePoint Dev documentation. 
 
 - [Use column formatting to customize SharePoint](https://docs.microsoft.com/en-us/sharepoint/dev/declarative-customization/column-formatting)
-
+https
 
 # Contributing
 
